@@ -27,13 +27,33 @@
     
 </p>
 
-
-
-
-
-<!--<p align="center">
+<h1>Tecnologias que uso</h1>
+<!-- Frontend -->
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   </a>
-</p>-->
+</p>
 
+<!-- Backend -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
+<!-- Herramientas -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  </a>
+</p>
+
+<!-- Sistemas Operativos -->
+<p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  <a href="https://simpleicons.org/icons/fedora.svg">
+    <img src="https://simpleicons.org/icons/fedora.svg" alt="Fedora" width="40" />
+  </a>
+</p>
